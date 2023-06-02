@@ -62,17 +62,17 @@
 
         <form id="calculatorForm">
             <div class="form-group">
-                <label for="drink1">飲料1</label>
+                <label for="drink1">咖啡</label>
                 <input type="number" id="drink1" name="drink1" min="0" required>
             </div>
 
             <div class="form-group">
-                <label for="drink2">飲料2</label>
+                <label for="drink2">果汁</label>
                 <input type="number" id="drink2" name="drink2" min="0" required>
             </div>
 
             <div class="form-group">
-                <label for="drink3">飲料3</label>
+                <label for="drink3">奶茶</label>
                 <input type="number" id="drink3" name="drink3" min="0" required>
             </div>
 
